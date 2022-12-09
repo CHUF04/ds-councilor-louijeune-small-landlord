@@ -12,17 +12,17 @@ Julie Le - U27780222
 ----------------------------------------------------
 Our various deliverables can be found at the following locations:
 
-[Deliverable 0: Client Kick Off Scrum Report](./deliverable0/CS506_\ Deliverable\ 0.pdf)
+[Deliverable 0: Client Kick Off Scrum Report](/deliverable0/CS506_\ Deliverable\ 0.pdf)
 
-[Deliverable 1: Preliminary Report](./deliverable1/Preliminary\ Report.pdf)
+[Deliverable 1: Preliminary Report](/deliverable1/Preliminary\ Report.pdf)
 
-[Deliverable 2: Early Insights Presentation](./deliverable2/Early\ Insights\ Report.pdf)
+[Deliverable 2: Early Insights Presentation](/deliverable2/Early\ Insights\ Report.pdf)
 
-[Deliverable 3: First Draft](./deliverable3/Small\ Landlord\ Analysis.pdf)
+[Deliverable 3: First Draft](/deliverable3/Small\ Landlord\ Analysis.pdf)
 
-[Deliverable 4: Second Draft](./deliverable4/Small\ Landlord\ Analysis.pdf)
+[Deliverable 4: Second Draft](/deliverable4/Small\ Landlord\ Analysis.pdf)
 
-[Deliverable 5: Final Draft](./deliverable5/Small\ Landlord\ Analysis.pdf)
+[Deliverable 5: Final Draft](/deliverable5/Small\ Landlord\ Analysis.pdf)
 
 ## Data
 ----------------------------------------------------
